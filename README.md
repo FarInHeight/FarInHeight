@@ -5,7 +5,7 @@ In 2022 I obtained a bachelor's degree in Computer Engineering and I'm currently
 My main interests are:
 - ⨋ Statistical Mathematics
 - 🤔 Mathematical Thinking
-- 👨🏻‍💻 Linux Operating Systems
+- 👨🏻‍💻 Unix-like Operating Systems
 - 🕸 Web Development for 🤠 Entertainment
 - 💭 Dreaming and 🔨 Realizing
 
