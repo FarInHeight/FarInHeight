@@ -3,10 +3,9 @@
 Hi, I'm Sferra ([@FarInHeight](https://github.com/FarInHeight/)), a Computer Engineer from [@UniPa](https://www.unipa.it/). <br>
 In 2022 I obtained a bachelor's degree in Computer Engineering and I'm currently a MSc student in [Artificial Intelligence](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?oidCurriculum=21386). <br>
 My main interests are:
-- ⨋ Statistical Mathematics
+- ⨋  Statistical Mathematics and Mathematical Analysis
 - 🤔 Mathematical Thinking
 - 👨🏻‍💻 Unix-like Operating Systems
-- 🕸 Web Development for 🤠 Entertainment
 - 💭 Dreaming and 🔨 Realizing
 
 ---
