@@ -6,4 +6,4 @@ In 2022 I obtained a bachelor's degree in [Computer Engineering](https://offerta
 
 > <div align="center"> "If you have knowledge, let others light their candles at it." <br> -- Margaret Fuller --</div>
 
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=FarInHeight&style=flat-square&color=brightgreen" /> </div>
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=FarInHeight&style=flat-square&color=brightgreen" alt="FarInHeight" /> </div>
